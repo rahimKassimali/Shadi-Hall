@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MarrageLAwn", "http://localhost:52762", "{1BDD9B28-CC91-4F14-9395-FBEA68B75B2E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52762"
+		Debug.AspNetCompiler.PhysicalPath = "D:\fast\semister 6\SE\project\MarrageLAwn\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52762\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52762"
+		Release.AspNetCompiler.PhysicalPath = "D:\fast\semister 6\SE\project\MarrageLAwn\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52762\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\fast\semister 6\SE\project\MarrageLAwn\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDD9B28-CC91-4F14-9395-FBEA68B75B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDD9B28-CC91-4F14-9395-FBEA68B75B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
